@@ -16,35 +16,35 @@
 	/* border:1px solid black; */
 }
 .king-white{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat: no-repeat;
     background-position: 7px -90px;
     width: 100%;
     height: 100%;
 }
 .queen-white{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	background-position: -104px -90px;
     width: 100%;
     height: 100%;
 }
 .bishop-white{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
     background-position: -324px -90px;
     width: 100%;
     height: 100%;
 }
 .horse-white{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	background-position: -433px -90px;
     width: 100%;
     height: 100%;
 }
 .rook-white{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	background-position: -212px -90px;
     width: 100%;
@@ -52,7 +52,7 @@
 	
 }
 .soldier-white{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	    background-position: -545px -90px;
     width: 100%;
@@ -60,7 +60,7 @@
 }
 
 .king-black{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat: no-repeat;
     background-position: 7px 0px;
     width: 100%;
@@ -68,35 +68,35 @@
 
 }
 .queen-black{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	background-position: -104px 0px;
     width: 100%;
     height: 100%
 }
 .bishop-black{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	background-position: -324px 0px;
     width: 100%;
     height: 100%;
 }
 .horse-black{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	background-position: -433px 0px;
     width: 100%;
     height: 100%;
 }
 .rook-black{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	background-position: -212px 0px;
     width: 100%;
     height: 100%;
 }
 .soldier-black{
-	background-image:url("/pages/chess_images.png");
+	background-image:url("../pages/chess_images.png");
 	background-repeat:no-repeat;
 	    background-position: -545px 0px;
     width: 100%;
