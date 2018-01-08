@@ -1,0 +1,8 @@
+<link rel="stylesheet" href = "pages/home.css"> </link>
+<div class = "row" >
+	<div class="col-md-12">
+		<div id ="chessboard">
+			<board-row ng-if="mod" class-function="classFunc(row,col)" index ="{{$index}}" config-params ="config" ng-repeat = "x in [1,2,3,4,5,6,7,8]" modify-func="modify()"></board-row>
+		</div>
+	</div>
+</div>
