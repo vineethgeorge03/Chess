@@ -9,7 +9,7 @@ $routeProvider
   });
 });
 
-//controllers
+//controllersss
 chess.controller('homeController',function($scope,$timeout){
 	//$scope.stateArray =[];
 	$scope.backIndex=0;
